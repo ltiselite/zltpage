@@ -1,7 +1,7 @@
 # Funday -- 个人简历模板
 
-<a href='http://gitee.com/xiaodan_yu/resume.io/stargazers'><img src='http://gitee.com/xiaodan_yu/resume.io/badge/star.svg?theme=dark' alt='star'></img></a>
-<a href='http://gitee.com/xiaodan_yu/resume.io/members'><img src='http://gitee.com/xiaodan_yu/resume.io/badge/fork.svg?theme=dark' alt='fork'></img></a>
+<a href='http://gitee.com/xiaodan_yu/zltpage/stargazers'><img src='http://gitee.com/xiaodan_yu/zltpage/badge/star.svg?theme=dark' alt='star'></img></a>
+<a href='http://gitee.com/xiaodan_yu/zltpage/members'><img src='http://gitee.com/xiaodan_yu/zltpage/badge/fork.svg?theme=dark' alt='fork'></img></a>
 
 ## 名字释义
 
@@ -32,7 +32,7 @@ phone: 1580424XXXX
 email: xxxx@xxx.com
 
 #本项目的baseurl
-baseurl: "/resume.io"
+baseurl: "/zltpage"
 ```
 
 2. 修改个人头像信息
@@ -71,35 +71,35 @@ baseurl: "/resume.io"
 
 ```bash
 [root@localhost ~]# jekyll s
-Configuration file: C:/..../resume.io/_config.yml
-            Source: C:/..../resume.io
-       Destination: C:/..../resume.io/_site
+Configuration file: C:/..../zltpage/_config.yml
+            Source: C:/..../zltpage
+       Destination: C:/..../zltpage/_site
  Incremental build: disabled. Enable with --incremental
       Generating...
                     done in 0.371 seconds.
   Please add the following to your Gemfile to avoid polling for changes:
     gem 'wdm', '>= 0.1.0' if Gem.win_platform?
- Auto-regeneration: enabled for 'C:/..../resume.io'
-    Server address: http://127.0.0.1:4000/resume.io/
+ Auto-regeneration: enabled for 'C:/..../zltpage'
+    Server address: http://127.0.0.1:4000/zltpage/
   Server running... press ctrl-c to stop.
 ```
 
-然后可以访问[http://127.0.0.1:4000/resume.io/](http://127.0.0.1:4000/resume.io/)来访问本地的服务了。
+然后可以访问[http://127.0.0.1:4000/zltpage/](http://127.0.0.1:4000/zltpage/)来访问本地的服务了。
 
 
 ## 在线预览
 
-[非你莫属--个人简历模板](http://xiaodan_yu.gitee.io/resume.io)
+[非你莫属--个人简历模板](http://xiaodan_yu.gitee.io/zltpage)
 
 ## 截图预览
 
-![01.png](http://xiaodan_yu.gitee.io/resume.io/snapshot/11_01.png)
+![01.png](http://xiaodan_yu.gitee.io/zltpage/snapshot/11_01.png)
 
-![02.png](http://xiaodan_yu.gitee.io/resume.io/snapshot/11_02.png)
+![02.png](http://xiaodan_yu.gitee.io/zltpage/snapshot/11_02.png)
 
-![03.png](http://xiaodan_yu.gitee.io/resume.io/snapshot/11_03.png)
+![03.png](http://xiaodan_yu.gitee.io/zltpage/snapshot/11_03.png)
 
-![04.png](http://xiaodan_yu.gitee.io/resume.io/snapshot/11_04.png)
+![04.png](http://xiaodan_yu.gitee.io/zltpage/snapshot/11_04.png)
 
 
 ## 参考
@@ -107,4 +107,4 @@ Configuration file: C:/..../resume.io/_config.yml
 本简历模板基于[Certy](http://sc.chinaz.com/moban/170307198220.htm)修改而来。保留了所有的样式，基于Jekyll重构了页面框架，并去掉了一些没有必要的内容，整合一页简历。
 
 ## 开源协议
-[MIT](https://gitee.com/xiaodan_yu/resume.io/blob/master/LICENSE)
+[MIT](https://gitee.com/xiaodan_yu/zltpage/blob/master/LICENSE)
